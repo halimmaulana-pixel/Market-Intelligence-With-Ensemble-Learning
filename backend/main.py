@@ -8,7 +8,7 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from database.db import engine, Base
-from database.seed import seed_data
+from database.seed import run_seed
 from routers import auth, produk, histori, prediksi, alokasi, model_config, pengguna
 
 app = FastAPI(
@@ -28,7 +28,7 @@ app.add_middleware(
 @app.on_event("startup")
 async def startup_event():
     Base.metadata.create_all(bind=engine)
-    seed_data()
+    run_seed()
 
 app.include_router(auth.router)
 app.include_router(produk.router)
