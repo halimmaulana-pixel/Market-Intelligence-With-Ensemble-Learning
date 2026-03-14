@@ -1,13 +1,14 @@
 """
-main.py — Entry point aplikasi FastAPI SalSa Market Intelligence System.
+main.py – Entry point aplikasi FastAPI SalSa Market Intelligence System.
 """
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import sys
 import os
-
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
+from database.db import engine, Base
+from database.seed import seed_data
 from routers import auth, produk, histori, prediksi, alokasi, model_config, pengguna
 
 app = FastAPI(
@@ -16,16 +17,19 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# CORS — izinkan frontend Vite (localhost:5173) dan localhost:3000
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Daftarkan semua router
+@app.on_event("startup")
+async def startup_event():
+    Base.metadata.create_all(bind=engine)
+    seed_data()
+
 app.include_router(auth.router)
 app.include_router(produk.router)
 app.include_router(histori.router)
@@ -33,7 +37,6 @@ app.include_router(prediksi.router)
 app.include_router(alokasi.router)
 app.include_router(model_config.router)
 app.include_router(pengguna.router)
-
 
 @app.get("/", tags=["Root"])
 def root():
