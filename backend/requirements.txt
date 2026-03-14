@@ -12,14 +12,14 @@ passlib[bcrypt]==1.7.4
 bcrypt==4.0.1
 
 # ML — SVR
-scikit-learn==1.4.2
+scikit-learn==1.5.2
 
 # ML — SARIMA
-statsmodels==0.14.2
+statsmodels==0.14.4
 pmdarima==2.0.4
 
 # Optimisasi LP
-scipy==1.13.0
+scipy==1.14.0
 
 # Data processing
 pandas==2.2.2
