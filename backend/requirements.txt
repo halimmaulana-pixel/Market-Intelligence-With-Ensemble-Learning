@@ -1,35 +1,15 @@
-# Backend SalSa Market Intelligence System
-# FastAPI & server
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
-
-# Database
 sqlalchemy==2.0.30
-
-# Autentikasi
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 bcrypt==4.0.1
-
-# ML — SVR
-scikit-learn==1.5.2
-
-# ML — SARIMA
+scikit-learn==1.6.1
 statsmodels==0.14.4
 pmdarima==2.0.4
-
-# Optimisasi LP
-scipy==1.10.1
-
-# Data processing
-pandas==2.2.2
-numpy==1.26.4
-
-# Model persistence
+scipy==1.15.3
+pandas==2.2.3
+numpy==2.2.0
 joblib==1.4.2
-
-# Export Excel
 openpyxl==3.1.2
-
-# Form data upload
 python-multipart==0.0.9
