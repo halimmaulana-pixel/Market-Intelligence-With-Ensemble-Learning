@@ -1,0 +1,1441 @@
+tanggal,nama_produk,penjualan_rp,cuaca,hari_besar,is_dummy
+2025-09-13,Tahu Putih,190000,mendung,,True
+2025-09-13,Tahu Goreng,148200,mendung,,True
+2025-09-13,Toge,101900,mendung,,True
+2025-09-13,Teri Sibolga,790600,mendung,,True
+2025-09-13,Mie Kuning,246100,mendung,,True
+2025-09-13,Tempe,221500,mendung,,True
+2025-09-13,Cabai Merah,594200,mendung,,True
+2025-09-13,Bawang Merah,448000,mendung,,True
+2025-09-14,Tahu Putih,176600,cerah,,True
+2025-09-14,Tahu Goreng,147100,cerah,,True
+2025-09-14,Toge,94200,cerah,,True
+2025-09-14,Teri Sibolga,706600,cerah,,True
+2025-09-14,Mie Kuning,242300,cerah,,True
+2025-09-14,Tempe,199500,cerah,,True
+2025-09-14,Cabai Merah,502700,cerah,,True
+2025-09-14,Bawang Merah,410600,cerah,,True
+2025-09-15,Tahu Putih,122300,cerah,,True
+2025-09-15,Tahu Goreng,103300,cerah,,True
+2025-09-15,Toge,65500,cerah,,True
+2025-09-15,Teri Sibolga,481200,cerah,,True
+2025-09-15,Mie Kuning,180000,cerah,,True
+2025-09-15,Tempe,151600,cerah,,True
+2025-09-15,Cabai Merah,383500,cerah,,True
+2025-09-15,Bawang Merah,280500,cerah,,True
+2025-09-16,Tahu Putih,132100,cerah,,True
+2025-09-16,Tahu Goreng,108500,cerah,,True
+2025-09-16,Toge,68700,cerah,,True
+2025-09-16,Teri Sibolga,548100,cerah,,True
+2025-09-16,Mie Kuning,175700,cerah,,True
+2025-09-16,Tempe,160100,cerah,,True
+2025-09-16,Cabai Merah,395300,cerah,,True
+2025-09-16,Bawang Merah,338300,cerah,,True
+2025-09-17,Tahu Putih,131000,mendung,,True
+2025-09-17,Tahu Goreng,100400,mendung,,True
+2025-09-17,Toge,72200,mendung,,True
+2025-09-17,Teri Sibolga,498800,mendung,,True
+2025-09-17,Mie Kuning,176300,mendung,,True
+2025-09-17,Tempe,145000,mendung,,True
+2025-09-17,Cabai Merah,372400,mendung,,True
+2025-09-17,Bawang Merah,308300,mendung,,True
+2025-09-18,Tahu Putih,142100,mendung,,True
+2025-09-18,Tahu Goreng,111200,mendung,,True
+2025-09-18,Toge,73300,mendung,,True
+2025-09-18,Teri Sibolga,545400,mendung,,True
+2025-09-18,Mie Kuning,173100,mendung,,True
+2025-09-18,Tempe,160800,mendung,,True
+2025-09-18,Cabai Merah,406400,mendung,,True
+2025-09-18,Bawang Merah,335600,mendung,,True
+2025-09-19,Tahu Putih,152100,hujan,,True
+2025-09-19,Tahu Goreng,111500,hujan,,True
+2025-09-19,Toge,81000,hujan,,True
+2025-09-19,Teri Sibolga,590800,hujan,,True
+2025-09-19,Mie Kuning,194600,hujan,,True
+2025-09-19,Tempe,184400,hujan,,True
+2025-09-19,Cabai Merah,468600,hujan,,True
+2025-09-19,Bawang Merah,363000,hujan,,True
+2025-09-20,Tahu Putih,195700,cerah,,True
+2025-09-20,Tahu Goreng,160000,cerah,,True
+2025-09-20,Toge,109400,cerah,,True
+2025-09-20,Teri Sibolga,841600,cerah,,True
+2025-09-20,Mie Kuning,264800,cerah,,True
+2025-09-20,Tempe,241200,cerah,,True
+2025-09-20,Cabai Merah,580600,cerah,,True
+2025-09-20,Bawang Merah,449900,cerah,,True
+2025-09-21,Tahu Putih,185900,cerah,,True
+2025-09-21,Tahu Goreng,151800,cerah,,True
+2025-09-21,Toge,95700,cerah,,True
+2025-09-21,Teri Sibolga,748900,cerah,,True
+2025-09-21,Mie Kuning,243500,cerah,,True
+2025-09-21,Tempe,210400,cerah,,True
+2025-09-21,Cabai Merah,547800,cerah,,True
+2025-09-21,Bawang Merah,445800,cerah,,True
+2025-09-22,Tahu Putih,127300,cerah,,True
+2025-09-22,Tahu Goreng,108400,cerah,,True
+2025-09-22,Toge,60900,cerah,,True
+2025-09-22,Teri Sibolga,526800,cerah,,True
+2025-09-22,Mie Kuning,170600,cerah,,True
+2025-09-22,Tempe,151200,cerah,,True
+2025-09-22,Cabai Merah,383900,cerah,,True
+2025-09-22,Bawang Merah,273800,cerah,,True
+2025-09-23,Tahu Putih,133800,cerah,,True
+2025-09-23,Tahu Goreng,109500,cerah,,True
+2025-09-23,Toge,76300,cerah,,True
+2025-09-23,Teri Sibolga,528800,cerah,,True
+2025-09-23,Mie Kuning,174200,cerah,,True
+2025-09-23,Tempe,158700,cerah,,True
+2025-09-23,Cabai Merah,419800,cerah,,True
+2025-09-23,Bawang Merah,319100,cerah,,True
+2025-09-24,Tahu Putih,139500,cerah,,True
+2025-09-24,Tahu Goreng,116300,cerah,,True
+2025-09-24,Toge,76300,cerah,,True
+2025-09-24,Teri Sibolga,592100,cerah,,True
+2025-09-24,Mie Kuning,184700,cerah,,True
+2025-09-24,Tempe,168800,cerah,,True
+2025-09-24,Cabai Merah,420800,cerah,,True
+2025-09-24,Bawang Merah,313000,cerah,,True
+2025-09-25,Tahu Putih,151800,cerah,,True
+2025-09-25,Tahu Goreng,121300,cerah,,True
+2025-09-25,Toge,80000,cerah,,True
+2025-09-25,Teri Sibolga,594400,cerah,,True
+2025-09-25,Mie Kuning,188700,cerah,,True
+2025-09-25,Tempe,177000,cerah,,True
+2025-09-25,Cabai Merah,443800,cerah,,True
+2025-09-25,Bawang Merah,338800,cerah,,True
+2025-09-26,Tahu Putih,186300,cerah,,True
+2025-09-26,Tahu Goreng,152400,cerah,,True
+2025-09-26,Toge,107500,cerah,,True
+2025-09-26,Teri Sibolga,755200,cerah,,True
+2025-09-26,Mie Kuning,252600,cerah,,True
+2025-09-26,Tempe,224300,cerah,,True
+2025-09-26,Cabai Merah,519300,cerah,,True
+2025-09-26,Bawang Merah,437000,cerah,,True
+2025-09-27,Tahu Putih,186700,mendung,,True
+2025-09-27,Tahu Goreng,163700,mendung,,True
+2025-09-27,Toge,98600,mendung,,True
+2025-09-27,Teri Sibolga,754200,mendung,,True
+2025-09-27,Mie Kuning,248100,mendung,,True
+2025-09-27,Tempe,213100,mendung,,True
+2025-09-27,Cabai Merah,584400,mendung,,True
+2025-09-27,Bawang Merah,447800,mendung,,True
+2025-09-28,Tahu Putih,185700,cerah,,True
+2025-09-28,Tahu Goreng,138800,cerah,,True
+2025-09-28,Toge,101400,cerah,,True
+2025-09-28,Teri Sibolga,679600,cerah,,True
+2025-09-28,Mie Kuning,245600,cerah,,True
+2025-09-28,Tempe,234900,cerah,,True
+2025-09-28,Cabai Merah,518600,cerah,,True
+2025-09-28,Bawang Merah,410500,cerah,,True
+2025-09-29,Tahu Putih,128000,cerah,,True
+2025-09-29,Tahu Goreng,99900,cerah,,True
+2025-09-29,Toge,63800,cerah,,True
+2025-09-29,Teri Sibolga,511400,cerah,,True
+2025-09-29,Mie Kuning,162800,cerah,,True
+2025-09-29,Tempe,155900,cerah,,True
+2025-09-29,Cabai Merah,368400,cerah,,True
+2025-09-29,Bawang Merah,315900,cerah,,True
+2025-09-30,Tahu Putih,130800,cerah,,True
+2025-09-30,Tahu Goreng,106600,cerah,,True
+2025-09-30,Toge,74300,cerah,,True
+2025-09-30,Teri Sibolga,513400,cerah,,True
+2025-09-30,Mie Kuning,181600,cerah,,True
+2025-09-30,Tempe,170500,cerah,,True
+2025-09-30,Cabai Merah,379000,cerah,,True
+2025-09-30,Bawang Merah,317300,cerah,,True
+2025-10-01,Tahu Putih,152300,mendung,Awal Bulan,True
+2025-10-01,Tahu Goreng,124400,mendung,Awal Bulan,True
+2025-10-01,Toge,76400,mendung,Awal Bulan,True
+2025-10-01,Teri Sibolga,571200,mendung,Awal Bulan,True
+2025-10-01,Mie Kuning,205200,mendung,Awal Bulan,True
+2025-10-01,Tempe,183100,mendung,Awal Bulan,True
+2025-10-01,Cabai Merah,456800,mendung,Awal Bulan,True
+2025-10-01,Bawang Merah,356700,mendung,Awal Bulan,True
+2025-10-02,Tahu Putih,167800,cerah,Awal Bulan,True
+2025-10-02,Tahu Goreng,139300,cerah,Awal Bulan,True
+2025-10-02,Toge,93100,cerah,Awal Bulan,True
+2025-10-02,Teri Sibolga,670300,cerah,Awal Bulan,True
+2025-10-02,Mie Kuning,247200,cerah,Awal Bulan,True
+2025-10-02,Tempe,210900,cerah,Awal Bulan,True
+2025-10-02,Cabai Merah,492800,cerah,Awal Bulan,True
+2025-10-02,Bawang Merah,413100,cerah,Awal Bulan,True
+2025-10-03,Tahu Putih,190600,mendung,Awal Bulan,True
+2025-10-03,Tahu Goreng,163700,mendung,Awal Bulan,True
+2025-10-03,Toge,110700,mendung,Awal Bulan,True
+2025-10-03,Teri Sibolga,767500,mendung,Awal Bulan,True
+2025-10-03,Mie Kuning,274700,mendung,Awal Bulan,True
+2025-10-03,Tempe,242000,mendung,Awal Bulan,True
+2025-10-03,Cabai Merah,614700,mendung,Awal Bulan,True
+2025-10-03,Bawang Merah,498000,mendung,Awal Bulan,True
+2025-10-04,Tahu Putih,212100,mendung,Awal Bulan,True
+2025-10-04,Tahu Goreng,166200,mendung,Awal Bulan,True
+2025-10-04,Toge,110200,mendung,Awal Bulan,True
+2025-10-04,Teri Sibolga,829000,mendung,Awal Bulan,True
+2025-10-04,Mie Kuning,284800,mendung,Awal Bulan,True
+2025-10-04,Tempe,260600,mendung,Awal Bulan,True
+2025-10-04,Cabai Merah,649800,mendung,Awal Bulan,True
+2025-10-04,Bawang Merah,516400,mendung,Awal Bulan,True
+2025-10-05,Tahu Putih,207100,cerah,Awal Bulan,True
+2025-10-05,Tahu Goreng,175200,cerah,Awal Bulan,True
+2025-10-05,Toge,109200,cerah,Awal Bulan,True
+2025-10-05,Teri Sibolga,918100,cerah,Awal Bulan,True
+2025-10-05,Mie Kuning,282900,cerah,Awal Bulan,True
+2025-10-05,Tempe,239900,cerah,Awal Bulan,True
+2025-10-05,Cabai Merah,594400,cerah,Awal Bulan,True
+2025-10-05,Bawang Merah,492300,cerah,Awal Bulan,True
+2025-10-06,Tahu Putih,126400,cerah,,True
+2025-10-06,Tahu Goreng,104900,cerah,,True
+2025-10-06,Toge,69300,cerah,,True
+2025-10-06,Teri Sibolga,508500,cerah,,True
+2025-10-06,Mie Kuning,164200,cerah,,True
+2025-10-06,Tempe,143700,cerah,,True
+2025-10-06,Cabai Merah,375700,cerah,,True
+2025-10-06,Bawang Merah,307700,cerah,,True
+2025-10-07,Tahu Putih,108900,hujan,,True
+2025-10-07,Tahu Goreng,82100,hujan,,True
+2025-10-07,Toge,58000,hujan,,True
+2025-10-07,Teri Sibolga,438700,hujan,,True
+2025-10-07,Mie Kuning,138900,hujan,,True
+2025-10-07,Tempe,130400,hujan,,True
+2025-10-07,Cabai Merah,324800,hujan,,True
+2025-10-07,Bawang Merah,240500,hujan,,True
+2025-10-08,Tahu Putih,144500,cerah,,True
+2025-10-08,Tahu Goreng,116600,cerah,,True
+2025-10-08,Toge,79300,cerah,,True
+2025-10-08,Teri Sibolga,594000,cerah,,True
+2025-10-08,Mie Kuning,179500,cerah,,True
+2025-10-08,Tempe,164600,cerah,,True
+2025-10-08,Cabai Merah,436300,cerah,,True
+2025-10-08,Bawang Merah,339300,cerah,,True
+2025-10-09,Tahu Putih,153100,cerah,,True
+2025-10-09,Tahu Goreng,138500,cerah,,True
+2025-10-09,Toge,81800,cerah,,True
+2025-10-09,Teri Sibolga,627300,cerah,,True
+2025-10-09,Mie Kuning,207600,cerah,,True
+2025-10-09,Tempe,184700,cerah,,True
+2025-10-09,Cabai Merah,444300,cerah,,True
+2025-10-09,Bawang Merah,360600,cerah,,True
+2025-10-10,Tahu Putih,181700,cerah,,True
+2025-10-10,Tahu Goreng,148600,cerah,,True
+2025-10-10,Toge,98100,cerah,,True
+2025-10-10,Teri Sibolga,752500,cerah,,True
+2025-10-10,Mie Kuning,273100,cerah,,True
+2025-10-10,Tempe,208200,cerah,,True
+2025-10-10,Cabai Merah,577900,cerah,,True
+2025-10-10,Bawang Merah,409300,cerah,,True
+2025-10-11,Tahu Putih,182800,mendung,,True
+2025-10-11,Tahu Goreng,155500,mendung,,True
+2025-10-11,Toge,99600,mendung,,True
+2025-10-11,Teri Sibolga,713100,mendung,,True
+2025-10-11,Mie Kuning,241300,mendung,,True
+2025-10-11,Tempe,229600,mendung,,True
+2025-10-11,Cabai Merah,542600,mendung,,True
+2025-10-11,Bawang Merah,438500,mendung,,True
+2025-10-12,Tahu Putih,165900,mendung,,True
+2025-10-12,Tahu Goreng,129000,mendung,,True
+2025-10-12,Toge,95900,mendung,,True
+2025-10-12,Teri Sibolga,679200,mendung,,True
+2025-10-12,Mie Kuning,202900,mendung,,True
+2025-10-12,Tempe,200200,mendung,,True
+2025-10-12,Cabai Merah,483600,mendung,,True
+2025-10-12,Bawang Merah,399600,mendung,,True
+2025-10-13,Tahu Putih,113600,mendung,,True
+2025-10-13,Tahu Goreng,93400,mendung,,True
+2025-10-13,Toge,63800,mendung,,True
+2025-10-13,Teri Sibolga,485400,mendung,,True
+2025-10-13,Mie Kuning,148900,mendung,,True
+2025-10-13,Tempe,138900,mendung,,True
+2025-10-13,Cabai Merah,345200,mendung,,True
+2025-10-13,Bawang Merah,266500,mendung,,True
+2025-10-14,Tahu Putih,133000,mendung,,True
+2025-10-14,Tahu Goreng,101000,mendung,,True
+2025-10-14,Toge,62900,mendung,,True
+2025-10-14,Teri Sibolga,515000,mendung,,True
+2025-10-14,Mie Kuning,179700,mendung,,True
+2025-10-14,Tempe,155200,mendung,,True
+2025-10-14,Cabai Merah,350000,mendung,,True
+2025-10-14,Bawang Merah,284200,mendung,,True
+2025-10-15,Tahu Putih,149700,cerah,,True
+2025-10-15,Tahu Goreng,110800,cerah,,True
+2025-10-15,Toge,77300,cerah,,True
+2025-10-15,Teri Sibolga,587700,cerah,,True
+2025-10-15,Mie Kuning,183000,cerah,,True
+2025-10-15,Tempe,170600,cerah,,True
+2025-10-15,Cabai Merah,372100,cerah,,True
+2025-10-15,Bawang Merah,318900,cerah,,True
+2025-10-16,Tahu Putih,118800,hujan,,True
+2025-10-16,Tahu Goreng,91200,hujan,,True
+2025-10-16,Toge,68200,hujan,,True
+2025-10-16,Teri Sibolga,452500,hujan,,True
+2025-10-16,Mie Kuning,157200,hujan,,True
+2025-10-16,Tempe,144800,hujan,,True
+2025-10-16,Cabai Merah,380800,hujan,,True
+2025-10-16,Bawang Merah,263900,hujan,,True
+2025-10-17,Tahu Putih,196200,cerah,,True
+2025-10-17,Tahu Goreng,150100,cerah,,True
+2025-10-17,Toge,96100,cerah,,True
+2025-10-17,Teri Sibolga,763900,cerah,,True
+2025-10-17,Mie Kuning,252000,cerah,,True
+2025-10-17,Tempe,219600,cerah,,True
+2025-10-17,Cabai Merah,564100,cerah,,True
+2025-10-17,Bawang Merah,430800,cerah,,True
+2025-10-18,Tahu Putih,203400,cerah,,True
+2025-10-18,Tahu Goreng,166300,cerah,,True
+2025-10-18,Toge,114900,cerah,,True
+2025-10-18,Teri Sibolga,769900,cerah,,True
+2025-10-18,Mie Kuning,293000,cerah,,True
+2025-10-18,Tempe,224000,cerah,,True
+2025-10-18,Cabai Merah,603800,cerah,,True
+2025-10-18,Bawang Merah,483600,cerah,,True
+2025-10-19,Tahu Putih,167500,mendung,,True
+2025-10-19,Tahu Goreng,129200,mendung,,True
+2025-10-19,Toge,87600,mendung,,True
+2025-10-19,Teri Sibolga,649300,mendung,,True
+2025-10-19,Mie Kuning,215600,mendung,,True
+2025-10-19,Tempe,205500,mendung,,True
+2025-10-19,Cabai Merah,503900,mendung,,True
+2025-10-19,Bawang Merah,375700,mendung,,True
+2025-10-20,Tahu Putih,121500,mendung,,True
+2025-10-20,Tahu Goreng,95000,mendung,,True
+2025-10-20,Toge,64600,mendung,,True
+2025-10-20,Teri Sibolga,481000,mendung,,True
+2025-10-20,Mie Kuning,151200,mendung,,True
+2025-10-20,Tempe,137600,mendung,,True
+2025-10-20,Cabai Merah,362400,mendung,,True
+2025-10-20,Bawang Merah,280400,mendung,,True
+2025-10-21,Tahu Putih,107900,hujan,,True
+2025-10-21,Tahu Goreng,86800,hujan,,True
+2025-10-21,Toge,60500,hujan,,True
+2025-10-21,Teri Sibolga,421800,hujan,,True
+2025-10-21,Mie Kuning,147200,hujan,,True
+2025-10-21,Tempe,128600,hujan,,True
+2025-10-21,Cabai Merah,321200,hujan,,True
+2025-10-21,Bawang Merah,263100,hujan,,True
+2025-10-22,Tahu Putih,147200,cerah,,True
+2025-10-22,Tahu Goreng,117700,cerah,,True
+2025-10-22,Toge,80000,cerah,,True
+2025-10-22,Teri Sibolga,570500,cerah,,True
+2025-10-22,Mie Kuning,195200,cerah,,True
+2025-10-22,Tempe,168900,cerah,,True
+2025-10-22,Cabai Merah,433000,cerah,,True
+2025-10-22,Bawang Merah,330800,cerah,,True
+2025-10-23,Tahu Putih,138500,mendung,,True
+2025-10-23,Tahu Goreng,113000,mendung,,True
+2025-10-23,Toge,71200,mendung,,True
+2025-10-23,Teri Sibolga,598200,mendung,,True
+2025-10-23,Mie Kuning,176600,mendung,,True
+2025-10-23,Tempe,157600,mendung,,True
+2025-10-23,Cabai Merah,433200,mendung,,True
+2025-10-23,Bawang Merah,332200,mendung,,True
+2025-10-24,Tahu Putih,192200,cerah,,True
+2025-10-24,Tahu Goreng,153800,cerah,,True
+2025-10-24,Toge,100000,cerah,,True
+2025-10-24,Teri Sibolga,723100,cerah,,True
+2025-10-24,Mie Kuning,250800,cerah,,True
+2025-10-24,Tempe,218900,cerah,,True
+2025-10-24,Cabai Merah,584400,cerah,,True
+2025-10-24,Bawang Merah,434900,cerah,,True
+2025-10-25,Tahu Putih,195800,cerah,,True
+2025-10-25,Tahu Goreng,159900,cerah,,True
+2025-10-25,Toge,109800,cerah,,True
+2025-10-25,Teri Sibolga,791700,cerah,,True
+2025-10-25,Mie Kuning,261100,cerah,,True
+2025-10-25,Tempe,245400,cerah,,True
+2025-10-25,Cabai Merah,613500,cerah,,True
+2025-10-25,Bawang Merah,462900,cerah,,True
+2025-10-26,Tahu Putih,176600,cerah,,True
+2025-10-26,Tahu Goreng,145300,cerah,,True
+2025-10-26,Toge,90400,cerah,,True
+2025-10-26,Teri Sibolga,679500,cerah,,True
+2025-10-26,Mie Kuning,233100,cerah,,True
+2025-10-26,Tempe,214200,cerah,,True
+2025-10-26,Cabai Merah,546700,cerah,,True
+2025-10-26,Bawang Merah,444800,cerah,,True
+2025-10-27,Tahu Putih,131900,cerah,,True
+2025-10-27,Tahu Goreng,101300,cerah,,True
+2025-10-27,Toge,67900,cerah,,True
+2025-10-27,Teri Sibolga,489500,cerah,,True
+2025-10-27,Mie Kuning,169900,cerah,,True
+2025-10-27,Tempe,151200,cerah,,True
+2025-10-27,Cabai Merah,387400,cerah,,True
+2025-10-27,Bawang Merah,287700,cerah,,True
+2025-10-28,Tahu Putih,137800,cerah,,True
+2025-10-28,Tahu Goreng,114600,cerah,,True
+2025-10-28,Toge,71700,cerah,,True
+2025-10-28,Teri Sibolga,548700,cerah,,True
+2025-10-28,Mie Kuning,185000,cerah,,True
+2025-10-28,Tempe,159400,cerah,,True
+2025-10-28,Cabai Merah,408600,cerah,,True
+2025-10-28,Bawang Merah,315200,cerah,,True
+2025-10-29,Tahu Putih,143100,cerah,,True
+2025-10-29,Tahu Goreng,110500,cerah,,True
+2025-10-29,Toge,76100,cerah,,True
+2025-10-29,Teri Sibolga,581400,cerah,,True
+2025-10-29,Mie Kuning,201000,cerah,,True
+2025-10-29,Tempe,177600,cerah,,True
+2025-10-29,Cabai Merah,464300,cerah,,True
+2025-10-29,Bawang Merah,322300,cerah,,True
+2025-10-30,Tahu Putih,155200,cerah,,True
+2025-10-30,Tahu Goreng,120900,cerah,,True
+2025-10-30,Toge,87000,cerah,,True
+2025-10-30,Teri Sibolga,580600,cerah,,True
+2025-10-30,Mie Kuning,193300,cerah,,True
+2025-10-30,Tempe,175700,cerah,,True
+2025-10-30,Cabai Merah,411800,cerah,,True
+2025-10-30,Bawang Merah,342600,cerah,,True
+2025-10-31,Tahu Putih,167300,mendung,,True
+2025-10-31,Tahu Goreng,138800,mendung,,True
+2025-10-31,Toge,93300,mendung,,True
+2025-10-31,Teri Sibolga,741800,mendung,,True
+2025-10-31,Mie Kuning,238700,mendung,,True
+2025-10-31,Tempe,202200,mendung,,True
+2025-10-31,Cabai Merah,498900,mendung,,True
+2025-10-31,Bawang Merah,410400,mendung,,True
+2025-11-01,Tahu Putih,220600,cerah,Awal Bulan,True
+2025-11-01,Tahu Goreng,199900,cerah,Awal Bulan,True
+2025-11-01,Toge,130100,cerah,Awal Bulan,True
+2025-11-01,Teri Sibolga,914000,cerah,Awal Bulan,True
+2025-11-01,Mie Kuning,289200,cerah,Awal Bulan,True
+2025-11-01,Tempe,294600,cerah,Awal Bulan,True
+2025-11-01,Cabai Merah,695400,cerah,Awal Bulan,True
+2025-11-01,Bawang Merah,570300,cerah,Awal Bulan,True
+2025-11-02,Tahu Putih,193800,cerah,Awal Bulan,True
+2025-11-02,Tahu Goreng,161600,cerah,Awal Bulan,True
+2025-11-02,Toge,110400,cerah,Awal Bulan,True
+2025-11-02,Teri Sibolga,829600,cerah,Awal Bulan,True
+2025-11-02,Mie Kuning,271000,cerah,Awal Bulan,True
+2025-11-02,Tempe,254600,cerah,Awal Bulan,True
+2025-11-02,Cabai Merah,594500,cerah,Awal Bulan,True
+2025-11-02,Bawang Merah,480200,cerah,Awal Bulan,True
+2025-11-03,Tahu Putih,147300,cerah,Awal Bulan,True
+2025-11-03,Tahu Goreng,119700,cerah,Awal Bulan,True
+2025-11-03,Toge,80400,cerah,Awal Bulan,True
+2025-11-03,Teri Sibolga,560100,cerah,Awal Bulan,True
+2025-11-03,Mie Kuning,183500,cerah,Awal Bulan,True
+2025-11-03,Tempe,184900,cerah,Awal Bulan,True
+2025-11-03,Cabai Merah,445700,cerah,Awal Bulan,True
+2025-11-03,Bawang Merah,331900,cerah,Awal Bulan,True
+2025-11-04,Tahu Putih,164900,cerah,Awal Bulan,True
+2025-11-04,Tahu Goreng,124800,cerah,Awal Bulan,True
+2025-11-04,Toge,86700,cerah,Awal Bulan,True
+2025-11-04,Teri Sibolga,622700,cerah,Awal Bulan,True
+2025-11-04,Mie Kuning,224100,cerah,Awal Bulan,True
+2025-11-04,Tempe,199400,cerah,Awal Bulan,True
+2025-11-04,Cabai Merah,461100,cerah,Awal Bulan,True
+2025-11-04,Bawang Merah,376300,cerah,Awal Bulan,True
+2025-11-05,Tahu Putih,134500,hujan,Awal Bulan,True
+2025-11-05,Tahu Goreng,110600,hujan,Awal Bulan,True
+2025-11-05,Toge,67200,hujan,Awal Bulan,True
+2025-11-05,Teri Sibolga,538800,hujan,Awal Bulan,True
+2025-11-05,Mie Kuning,182200,hujan,Awal Bulan,True
+2025-11-05,Tempe,146300,hujan,Awal Bulan,True
+2025-11-05,Cabai Merah,374700,hujan,Awal Bulan,True
+2025-11-05,Bawang Merah,280900,hujan,Awal Bulan,True
+2025-11-06,Tahu Putih,136500,mendung,,True
+2025-11-06,Tahu Goreng,113600,mendung,,True
+2025-11-06,Toge,78000,mendung,,True
+2025-11-06,Teri Sibolga,553600,mendung,,True
+2025-11-06,Mie Kuning,196000,mendung,,True
+2025-11-06,Tempe,156500,mendung,,True
+2025-11-06,Cabai Merah,385800,mendung,,True
+2025-11-06,Bawang Merah,321300,mendung,,True
+2025-11-07,Tahu Putih,175200,mendung,,True
+2025-11-07,Tahu Goreng,137800,mendung,,True
+2025-11-07,Toge,84400,mendung,,True
+2025-11-07,Teri Sibolga,687500,mendung,,True
+2025-11-07,Mie Kuning,218000,mendung,,True
+2025-11-07,Tempe,212500,mendung,,True
+2025-11-07,Cabai Merah,525100,mendung,,True
+2025-11-07,Bawang Merah,387400,mendung,,True
+2025-11-08,Tahu Putih,198300,cerah,,True
+2025-11-08,Tahu Goreng,155100,cerah,,True
+2025-11-08,Toge,107700,cerah,,True
+2025-11-08,Teri Sibolga,840900,cerah,,True
+2025-11-08,Mie Kuning,259400,cerah,,True
+2025-11-08,Tempe,247900,cerah,,True
+2025-11-08,Cabai Merah,594600,cerah,,True
+2025-11-08,Bawang Merah,457500,cerah,,True
+2025-11-09,Tahu Putih,164900,mendung,,True
+2025-11-09,Tahu Goreng,127000,mendung,,True
+2025-11-09,Toge,86400,mendung,,True
+2025-11-09,Teri Sibolga,630700,mendung,,True
+2025-11-09,Mie Kuning,238200,mendung,,True
+2025-11-09,Tempe,199000,mendung,,True
+2025-11-09,Cabai Merah,482900,mendung,,True
+2025-11-09,Bawang Merah,389700,mendung,,True
+2025-11-10,Tahu Putih,126900,cerah,,True
+2025-11-10,Tahu Goreng,101100,cerah,,True
+2025-11-10,Toge,69700,cerah,,True
+2025-11-10,Teri Sibolga,525500,cerah,,True
+2025-11-10,Mie Kuning,166400,cerah,,True
+2025-11-10,Tempe,149500,cerah,,True
+2025-11-10,Cabai Merah,378300,cerah,,True
+2025-11-10,Bawang Merah,270100,cerah,,True
+2025-11-11,Tahu Putih,126800,cerah,,True
+2025-11-11,Tahu Goreng,113900,cerah,,True
+2025-11-11,Toge,76700,cerah,,True
+2025-11-11,Teri Sibolga,534600,cerah,,True
+2025-11-11,Mie Kuning,184200,cerah,,True
+2025-11-11,Tempe,164000,cerah,,True
+2025-11-11,Cabai Merah,454900,cerah,,True
+2025-11-11,Bawang Merah,329100,cerah,,True
+2025-11-12,Tahu Putih,113400,hujan,,True
+2025-11-12,Tahu Goreng,87700,hujan,,True
+2025-11-12,Toge,56900,hujan,,True
+2025-11-12,Teri Sibolga,459700,hujan,,True
+2025-11-12,Mie Kuning,147400,hujan,,True
+2025-11-12,Tempe,129000,hujan,,True
+2025-11-12,Cabai Merah,333200,hujan,,True
+2025-11-12,Bawang Merah,254500,hujan,,True
+2025-11-13,Tahu Putih,147300,mendung,,True
+2025-11-13,Tahu Goreng,114300,mendung,,True
+2025-11-13,Toge,73600,mendung,,True
+2025-11-13,Teri Sibolga,584700,mendung,,True
+2025-11-13,Mie Kuning,184600,mendung,,True
+2025-11-13,Tempe,159900,mendung,,True
+2025-11-13,Cabai Merah,439200,mendung,,True
+2025-11-13,Bawang Merah,328900,mendung,,True
+2025-11-14,Tahu Putih,179700,cerah,,True
+2025-11-14,Tahu Goreng,148900,cerah,,True
+2025-11-14,Toge,96500,cerah,,True
+2025-11-14,Teri Sibolga,708500,cerah,,True
+2025-11-14,Mie Kuning,259300,cerah,,True
+2025-11-14,Tempe,242200,cerah,,True
+2025-11-14,Cabai Merah,531000,cerah,,True
+2025-11-14,Bawang Merah,447400,cerah,,True
+2025-11-15,Tahu Putih,181500,mendung,,True
+2025-11-15,Tahu Goreng,146100,mendung,,True
+2025-11-15,Toge,97000,mendung,,True
+2025-11-15,Teri Sibolga,719400,mendung,,True
+2025-11-15,Mie Kuning,248900,mendung,,True
+2025-11-15,Tempe,216100,mendung,,True
+2025-11-15,Cabai Merah,564900,mendung,,True
+2025-11-15,Bawang Merah,433800,mendung,,True
+2025-11-16,Tahu Putih,164000,mendung,,True
+2025-11-16,Tahu Goreng,127700,mendung,,True
+2025-11-16,Toge,86300,mendung,,True
+2025-11-16,Teri Sibolga,682400,mendung,,True
+2025-11-16,Mie Kuning,225200,mendung,,True
+2025-11-16,Tempe,190900,mendung,,True
+2025-11-16,Cabai Merah,498800,mendung,,True
+2025-11-16,Bawang Merah,398000,mendung,,True
+2025-11-17,Tahu Putih,109500,mendung,,True
+2025-11-17,Tahu Goreng,95900,mendung,,True
+2025-11-17,Toge,60900,mendung,,True
+2025-11-17,Teri Sibolga,479900,mendung,,True
+2025-11-17,Mie Kuning,151600,mendung,,True
+2025-11-17,Tempe,130600,mendung,,True
+2025-11-17,Cabai Merah,329000,mendung,,True
+2025-11-17,Bawang Merah,274200,mendung,,True
+2025-11-18,Tahu Putih,136400,cerah,,True
+2025-11-18,Tahu Goreng,104100,cerah,,True
+2025-11-18,Toge,73800,cerah,,True
+2025-11-18,Teri Sibolga,504100,cerah,,True
+2025-11-18,Mie Kuning,179500,cerah,,True
+2025-11-18,Tempe,154200,cerah,,True
+2025-11-18,Cabai Merah,394400,cerah,,True
+2025-11-18,Bawang Merah,315600,cerah,,True
+2025-11-19,Tahu Putih,137600,cerah,,True
+2025-11-19,Tahu Goreng,112200,cerah,,True
+2025-11-19,Toge,79100,cerah,,True
+2025-11-19,Teri Sibolga,556800,cerah,,True
+2025-11-19,Mie Kuning,196400,cerah,,True
+2025-11-19,Tempe,163300,cerah,,True
+2025-11-19,Cabai Merah,436600,cerah,,True
+2025-11-19,Bawang Merah,351700,cerah,,True
+2025-11-20,Tahu Putih,135200,cerah,,True
+2025-11-20,Tahu Goreng,116200,cerah,,True
+2025-11-20,Toge,81800,cerah,,True
+2025-11-20,Teri Sibolga,595100,cerah,,True
+2025-11-20,Mie Kuning,203000,cerah,,True
+2025-11-20,Tempe,175700,cerah,,True
+2025-11-20,Cabai Merah,451600,cerah,,True
+2025-11-20,Bawang Merah,347800,cerah,,True
+2025-11-21,Tahu Putih,196300,cerah,,True
+2025-11-21,Tahu Goreng,151500,cerah,,True
+2025-11-21,Toge,101400,cerah,,True
+2025-11-21,Teri Sibolga,737600,cerah,,True
+2025-11-21,Mie Kuning,245100,cerah,,True
+2025-11-21,Tempe,221100,cerah,,True
+2025-11-21,Cabai Merah,571400,cerah,,True
+2025-11-21,Bawang Merah,430100,cerah,,True
+2025-11-22,Tahu Putih,204800,cerah,,True
+2025-11-22,Tahu Goreng,175400,cerah,,True
+2025-11-22,Toge,111800,cerah,,True
+2025-11-22,Teri Sibolga,799400,cerah,,True
+2025-11-22,Mie Kuning,283000,cerah,,True
+2025-11-22,Tempe,239000,cerah,,True
+2025-11-22,Cabai Merah,558000,cerah,,True
+2025-11-22,Bawang Merah,453400,cerah,,True
+2025-11-23,Tahu Putih,133200,hujan,,True
+2025-11-23,Tahu Goreng,113600,hujan,,True
+2025-11-23,Toge,76900,hujan,,True
+2025-11-23,Teri Sibolga,614600,hujan,,True
+2025-11-23,Mie Kuning,194500,hujan,,True
+2025-11-23,Tempe,171300,hujan,,True
+2025-11-23,Cabai Merah,446300,hujan,,True
+2025-11-23,Bawang Merah,306300,hujan,,True
+2025-11-24,Tahu Putih,103000,hujan,,True
+2025-11-24,Tahu Goreng,84100,hujan,,True
+2025-11-24,Toge,51200,hujan,,True
+2025-11-24,Teri Sibolga,426700,hujan,,True
+2025-11-24,Mie Kuning,137800,hujan,,True
+2025-11-24,Tempe,120400,hujan,,True
+2025-11-24,Cabai Merah,313700,hujan,,True
+2025-11-24,Bawang Merah,259600,hujan,,True
+2025-11-25,Tahu Putih,136000,cerah,,True
+2025-11-25,Tahu Goreng,109100,cerah,,True
+2025-11-25,Toge,70700,cerah,,True
+2025-11-25,Teri Sibolga,521600,cerah,,True
+2025-11-25,Mie Kuning,186000,cerah,,True
+2025-11-25,Tempe,156500,cerah,,True
+2025-11-25,Cabai Merah,406200,cerah,,True
+2025-11-25,Bawang Merah,309000,cerah,,True
+2025-11-26,Tahu Putih,133600,mendung,,True
+2025-11-26,Tahu Goreng,106300,mendung,,True
+2025-11-26,Toge,72800,mendung,,True
+2025-11-26,Teri Sibolga,513700,mendung,,True
+2025-11-26,Mie Kuning,172900,mendung,,True
+2025-11-26,Tempe,151200,mendung,,True
+2025-11-26,Cabai Merah,386300,mendung,,True
+2025-11-26,Bawang Merah,310500,mendung,,True
+2025-11-27,Tahu Putih,154500,cerah,,True
+2025-11-27,Tahu Goreng,115600,cerah,,True
+2025-11-27,Toge,82800,cerah,,True
+2025-11-27,Teri Sibolga,632500,cerah,,True
+2025-11-27,Mie Kuning,203300,cerah,,True
+2025-11-27,Tempe,193500,cerah,,True
+2025-11-27,Cabai Merah,436100,cerah,,True
+2025-11-27,Bawang Merah,332600,cerah,,True
+2025-11-28,Tahu Putih,139300,hujan,,True
+2025-11-28,Tahu Goreng,127200,hujan,,True
+2025-11-28,Toge,82100,hujan,,True
+2025-11-28,Teri Sibolga,598700,hujan,,True
+2025-11-28,Mie Kuning,202200,hujan,,True
+2025-11-28,Tempe,171900,hujan,,True
+2025-11-28,Cabai Merah,494000,hujan,,True
+2025-11-28,Bawang Merah,351800,hujan,,True
+2025-11-29,Tahu Putih,203400,cerah,,True
+2025-11-29,Tahu Goreng,166700,cerah,,True
+2025-11-29,Toge,110100,cerah,,True
+2025-11-29,Teri Sibolga,817300,cerah,,True
+2025-11-29,Mie Kuning,261500,cerah,,True
+2025-11-29,Tempe,247600,cerah,,True
+2025-11-29,Cabai Merah,653200,cerah,,True
+2025-11-29,Bawang Merah,497900,cerah,,True
+2025-11-30,Tahu Putih,191500,cerah,,True
+2025-11-30,Tahu Goreng,141100,cerah,,True
+2025-11-30,Toge,92200,cerah,,True
+2025-11-30,Teri Sibolga,716400,cerah,,True
+2025-11-30,Mie Kuning,240500,cerah,,True
+2025-11-30,Tempe,225500,cerah,,True
+2025-11-30,Cabai Merah,503400,cerah,,True
+2025-11-30,Bawang Merah,445700,cerah,,True
+2025-12-01,Tahu Putih,145700,cerah,Awal Bulan,True
+2025-12-01,Tahu Goreng,115300,cerah,Awal Bulan,True
+2025-12-01,Toge,75000,cerah,Awal Bulan,True
+2025-12-01,Teri Sibolga,547700,cerah,Awal Bulan,True
+2025-12-01,Mie Kuning,201900,cerah,Awal Bulan,True
+2025-12-01,Tempe,176500,cerah,Awal Bulan,True
+2025-12-01,Cabai Merah,417200,cerah,Awal Bulan,True
+2025-12-01,Bawang Merah,324400,cerah,Awal Bulan,True
+2025-12-02,Tahu Putih,153200,cerah,Awal Bulan,True
+2025-12-02,Tahu Goreng,132500,cerah,Awal Bulan,True
+2025-12-02,Toge,81900,cerah,Awal Bulan,True
+2025-12-02,Teri Sibolga,583700,cerah,Awal Bulan,True
+2025-12-02,Mie Kuning,205000,cerah,Awal Bulan,True
+2025-12-02,Tempe,184300,cerah,Awal Bulan,True
+2025-12-02,Cabai Merah,415500,cerah,Awal Bulan,True
+2025-12-02,Bawang Merah,361500,cerah,Awal Bulan,True
+2025-12-03,Tahu Putih,162400,cerah,Awal Bulan,True
+2025-12-03,Tahu Goreng,134800,cerah,Awal Bulan,True
+2025-12-03,Toge,93900,cerah,Awal Bulan,True
+2025-12-03,Teri Sibolga,685000,cerah,Awal Bulan,True
+2025-12-03,Mie Kuning,216100,cerah,Awal Bulan,True
+2025-12-03,Tempe,187900,cerah,Awal Bulan,True
+2025-12-03,Cabai Merah,542200,cerah,Awal Bulan,True
+2025-12-03,Bawang Merah,383300,cerah,Awal Bulan,True
+2025-12-04,Tahu Putih,172600,cerah,Awal Bulan,True
+2025-12-04,Tahu Goreng,137900,cerah,Awal Bulan,True
+2025-12-04,Toge,92700,cerah,Awal Bulan,True
+2025-12-04,Teri Sibolga,686000,cerah,Awal Bulan,True
+2025-12-04,Mie Kuning,224700,cerah,Awal Bulan,True
+2025-12-04,Tempe,202500,cerah,Awal Bulan,True
+2025-12-04,Cabai Merah,516800,cerah,Awal Bulan,True
+2025-12-04,Bawang Merah,393800,cerah,Awal Bulan,True
+2025-12-05,Tahu Putih,167600,hujan,Awal Bulan,True
+2025-12-05,Tahu Goreng,138600,hujan,Awal Bulan,True
+2025-12-05,Toge,91100,hujan,Awal Bulan,True
+2025-12-05,Teri Sibolga,731500,hujan,Awal Bulan,True
+2025-12-05,Mie Kuning,205600,hujan,Awal Bulan,True
+2025-12-05,Tempe,216000,hujan,Awal Bulan,True
+2025-12-05,Cabai Merah,543300,hujan,Awal Bulan,True
+2025-12-05,Bawang Merah,369100,hujan,Awal Bulan,True
+2025-12-06,Tahu Putih,199700,cerah,,True
+2025-12-06,Tahu Goreng,159600,cerah,,True
+2025-12-06,Toge,101900,cerah,,True
+2025-12-06,Teri Sibolga,784800,cerah,,True
+2025-12-06,Mie Kuning,258000,cerah,,True
+2025-12-06,Tempe,260000,cerah,,True
+2025-12-06,Cabai Merah,630200,cerah,,True
+2025-12-06,Bawang Merah,496500,cerah,,True
+2025-12-07,Tahu Putih,185200,cerah,,True
+2025-12-07,Tahu Goreng,137500,cerah,,True
+2025-12-07,Toge,94000,cerah,,True
+2025-12-07,Teri Sibolga,734100,cerah,,True
+2025-12-07,Mie Kuning,228300,cerah,,True
+2025-12-07,Tempe,222200,cerah,,True
+2025-12-07,Cabai Merah,534800,cerah,,True
+2025-12-07,Bawang Merah,413700,cerah,,True
+2025-12-08,Tahu Putih,104900,hujan,,True
+2025-12-08,Tahu Goreng,83100,hujan,,True
+2025-12-08,Toge,53600,hujan,,True
+2025-12-08,Teri Sibolga,426900,hujan,,True
+2025-12-08,Mie Kuning,130100,hujan,,True
+2025-12-08,Tempe,125400,hujan,,True
+2025-12-08,Cabai Merah,313300,hujan,,True
+2025-12-08,Bawang Merah,235100,hujan,,True
+2025-12-09,Tahu Putih,136800,cerah,,True
+2025-12-09,Tahu Goreng,102600,cerah,,True
+2025-12-09,Toge,74700,cerah,,True
+2025-12-09,Teri Sibolga,536000,cerah,,True
+2025-12-09,Mie Kuning,176200,cerah,,True
+2025-12-09,Tempe,168800,cerah,,True
+2025-12-09,Cabai Merah,393600,cerah,,True
+2025-12-09,Bawang Merah,297300,cerah,,True
+2025-12-10,Tahu Putih,133600,cerah,,True
+2025-12-10,Tahu Goreng,116800,cerah,,True
+2025-12-10,Toge,72100,cerah,,True
+2025-12-10,Teri Sibolga,610000,cerah,,True
+2025-12-10,Mie Kuning,174200,cerah,,True
+2025-12-10,Tempe,182600,cerah,,True
+2025-12-10,Cabai Merah,431100,cerah,,True
+2025-12-10,Bawang Merah,331200,cerah,,True
+2025-12-11,Tahu Putih,146700,cerah,,True
+2025-12-11,Tahu Goreng,121900,cerah,,True
+2025-12-11,Toge,79900,cerah,,True
+2025-12-11,Teri Sibolga,626500,cerah,,True
+2025-12-11,Mie Kuning,200900,cerah,,True
+2025-12-11,Tempe,181100,cerah,,True
+2025-12-11,Cabai Merah,443500,cerah,,True
+2025-12-11,Bawang Merah,349200,cerah,,True
+2025-12-12,Tahu Putih,189800,cerah,,True
+2025-12-12,Tahu Goreng,139700,cerah,,True
+2025-12-12,Toge,94600,cerah,,True
+2025-12-12,Teri Sibolga,772300,cerah,,True
+2025-12-12,Mie Kuning,251700,cerah,,True
+2025-12-12,Tempe,223300,cerah,,True
+2025-12-12,Cabai Merah,562900,cerah,,True
+2025-12-12,Bawang Merah,443600,cerah,,True
+2025-12-13,Tahu Putih,182300,mendung,,True
+2025-12-13,Tahu Goreng,144400,mendung,,True
+2025-12-13,Toge,100100,mendung,,True
+2025-12-13,Teri Sibolga,716000,mendung,,True
+2025-12-13,Mie Kuning,252500,mendung,,True
+2025-12-13,Tempe,208300,mendung,,True
+2025-12-13,Cabai Merah,581900,mendung,,True
+2025-12-13,Bawang Merah,442900,mendung,,True
+2025-12-14,Tahu Putih,167300,mendung,,True
+2025-12-14,Tahu Goreng,137700,mendung,,True
+2025-12-14,Toge,94200,mendung,,True
+2025-12-14,Teri Sibolga,689300,mendung,,True
+2025-12-14,Mie Kuning,204500,mendung,,True
+2025-12-14,Tempe,188500,mendung,,True
+2025-12-14,Cabai Merah,484400,mendung,,True
+2025-12-14,Bawang Merah,386800,mendung,,True
+2025-12-15,Tahu Putih,130100,cerah,,True
+2025-12-15,Tahu Goreng,99000,cerah,,True
+2025-12-15,Toge,68500,cerah,,True
+2025-12-15,Teri Sibolga,494600,cerah,,True
+2025-12-15,Mie Kuning,165800,cerah,,True
+2025-12-15,Tempe,144400,cerah,,True
+2025-12-15,Cabai Merah,368400,cerah,,True
+2025-12-15,Bawang Merah,281400,cerah,,True
+2025-12-16,Tahu Putih,129700,cerah,,True
+2025-12-16,Tahu Goreng,112600,cerah,,True
+2025-12-16,Toge,69300,cerah,,True
+2025-12-16,Teri Sibolga,596900,cerah,,True
+2025-12-16,Mie Kuning,183600,cerah,,True
+2025-12-16,Tempe,163200,cerah,,True
+2025-12-16,Cabai Merah,391100,cerah,,True
+2025-12-16,Bawang Merah,323800,cerah,,True
+2025-12-17,Tahu Putih,139200,cerah,,True
+2025-12-17,Tahu Goreng,114600,cerah,,True
+2025-12-17,Toge,83800,cerah,,True
+2025-12-17,Teri Sibolga,567800,cerah,,True
+2025-12-17,Mie Kuning,198700,cerah,,True
+2025-12-17,Tempe,166200,cerah,,True
+2025-12-17,Cabai Merah,426900,cerah,,True
+2025-12-17,Bawang Merah,356100,cerah,,True
+2025-12-18,Tahu Putih,117000,hujan,,True
+2025-12-18,Tahu Goreng,103000,hujan,,True
+2025-12-18,Toge,65800,hujan,,True
+2025-12-18,Teri Sibolga,469200,hujan,,True
+2025-12-18,Mie Kuning,164000,hujan,,True
+2025-12-18,Tempe,149600,hujan,,True
+2025-12-18,Cabai Merah,369000,hujan,,True
+2025-12-18,Bawang Merah,262400,hujan,,True
+2025-12-19,Tahu Putih,182000,cerah,,True
+2025-12-19,Tahu Goreng,148500,cerah,,True
+2025-12-19,Toge,99700,cerah,,True
+2025-12-19,Teri Sibolga,768600,cerah,,True
+2025-12-19,Mie Kuning,251800,cerah,,True
+2025-12-19,Tempe,213000,cerah,,True
+2025-12-19,Cabai Merah,571100,cerah,,True
+2025-12-19,Bawang Merah,448200,cerah,,True
+2025-12-20,Tahu Putih,165600,hujan,,True
+2025-12-20,Tahu Goreng,135200,hujan,,True
+2025-12-20,Toge,89300,hujan,,True
+2025-12-20,Teri Sibolga,659900,hujan,,True
+2025-12-20,Mie Kuning,215400,hujan,,True
+2025-12-20,Tempe,181500,hujan,,True
+2025-12-20,Cabai Merah,494400,hujan,,True
+2025-12-20,Bawang Merah,381100,hujan,,True
+2025-12-21,Tahu Putih,145600,hujan,,True
+2025-12-21,Tahu Goreng,109300,hujan,,True
+2025-12-21,Toge,73500,hujan,,True
+2025-12-21,Teri Sibolga,600300,hujan,,True
+2025-12-21,Mie Kuning,191700,hujan,,True
+2025-12-21,Tempe,177500,hujan,,True
+2025-12-21,Cabai Merah,432500,hujan,,True
+2025-12-21,Bawang Merah,336400,hujan,,True
+2025-12-22,Tahu Putih,132300,cerah,,True
+2025-12-22,Tahu Goreng,99900,cerah,,True
+2025-12-22,Toge,68300,cerah,,True
+2025-12-22,Teri Sibolga,500600,cerah,,True
+2025-12-22,Mie Kuning,167000,cerah,,True
+2025-12-22,Tempe,151100,cerah,,True
+2025-12-22,Cabai Merah,385900,cerah,,True
+2025-12-22,Bawang Merah,291800,cerah,,True
+2025-12-23,Tahu Putih,130400,mendung,,True
+2025-12-23,Tahu Goreng,95800,mendung,,True
+2025-12-23,Toge,65700,mendung,,True
+2025-12-23,Teri Sibolga,488100,mendung,,True
+2025-12-23,Mie Kuning,175200,mendung,,True
+2025-12-23,Tempe,150200,mendung,,True
+2025-12-23,Cabai Merah,388000,mendung,,True
+2025-12-23,Bawang Merah,272600,mendung,,True
+2025-12-24,Tahu Putih,132500,mendung,,True
+2025-12-24,Tahu Goreng,108600,mendung,,True
+2025-12-24,Toge,70200,mendung,,True
+2025-12-24,Teri Sibolga,546700,mendung,,True
+2025-12-24,Mie Kuning,171200,mendung,,True
+2025-12-24,Tempe,166200,mendung,,True
+2025-12-24,Cabai Merah,429500,mendung,,True
+2025-12-24,Bawang Merah,301500,mendung,,True
+2025-12-25,Tahu Putih,147300,cerah,,True
+2025-12-25,Tahu Goreng,127000,cerah,,True
+2025-12-25,Toge,85100,cerah,,True
+2025-12-25,Teri Sibolga,587500,cerah,,True
+2025-12-25,Mie Kuning,196600,cerah,,True
+2025-12-25,Tempe,178000,cerah,,True
+2025-12-25,Cabai Merah,425800,cerah,,True
+2025-12-25,Bawang Merah,337100,cerah,,True
+2025-12-26,Tahu Putih,180000,cerah,,True
+2025-12-26,Tahu Goreng,145400,cerah,,True
+2025-12-26,Toge,99900,cerah,,True
+2025-12-26,Teri Sibolga,757000,cerah,,True
+2025-12-26,Mie Kuning,265500,cerah,,True
+2025-12-26,Tempe,216000,cerah,,True
+2025-12-26,Cabai Merah,584600,cerah,,True
+2025-12-26,Bawang Merah,433800,cerah,,True
+2025-12-27,Tahu Putih,185900,mendung,,True
+2025-12-27,Tahu Goreng,153100,mendung,,True
+2025-12-27,Toge,94900,mendung,,True
+2025-12-27,Teri Sibolga,756600,mendung,,True
+2025-12-27,Mie Kuning,250100,mendung,,True
+2025-12-27,Tempe,228000,mendung,,True
+2025-12-27,Cabai Merah,565400,mendung,,True
+2025-12-27,Bawang Merah,477400,mendung,,True
+2025-12-28,Tahu Putih,175400,cerah,,True
+2025-12-28,Tahu Goreng,140900,cerah,,True
+2025-12-28,Toge,93600,cerah,,True
+2025-12-28,Teri Sibolga,704000,cerah,,True
+2025-12-28,Mie Kuning,233900,cerah,,True
+2025-12-28,Tempe,226300,cerah,,True
+2025-12-28,Cabai Merah,570700,cerah,,True
+2025-12-28,Bawang Merah,410400,cerah,,True
+2025-12-29,Tahu Putih,123300,cerah,,True
+2025-12-29,Tahu Goreng,103900,cerah,,True
+2025-12-29,Toge,66500,cerah,,True
+2025-12-29,Teri Sibolga,522900,cerah,,True
+2025-12-29,Mie Kuning,171400,cerah,,True
+2025-12-29,Tempe,143700,cerah,,True
+2025-12-29,Cabai Merah,406200,cerah,,True
+2025-12-29,Bawang Merah,318900,cerah,,True
+2025-12-30,Tahu Putih,131700,cerah,,True
+2025-12-30,Tahu Goreng,106300,cerah,,True
+2025-12-30,Toge,72800,cerah,,True
+2025-12-30,Teri Sibolga,547200,cerah,,True
+2025-12-30,Mie Kuning,184700,cerah,,True
+2025-12-30,Tempe,175000,cerah,,True
+2025-12-30,Cabai Merah,402100,cerah,,True
+2025-12-30,Bawang Merah,304900,cerah,,True
+2025-12-31,Tahu Putih,107700,hujan,,True
+2025-12-31,Tahu Goreng,88500,hujan,,True
+2025-12-31,Toge,60700,hujan,,True
+2025-12-31,Teri Sibolga,488700,hujan,,True
+2025-12-31,Mie Kuning,148900,hujan,,True
+2025-12-31,Tempe,138000,hujan,,True
+2025-12-31,Cabai Merah,341800,hujan,,True
+2025-12-31,Bawang Merah,278600,hujan,,True
+2026-01-01,Tahu Putih,151900,hujan,Awal Bulan,True
+2026-01-01,Tahu Goreng,108100,hujan,Awal Bulan,True
+2026-01-01,Toge,72200,hujan,Awal Bulan,True
+2026-01-01,Teri Sibolga,575100,hujan,Awal Bulan,True
+2026-01-01,Mie Kuning,189000,hujan,Awal Bulan,True
+2026-01-01,Tempe,177800,hujan,Awal Bulan,True
+2026-01-01,Cabai Merah,423700,hujan,Awal Bulan,True
+2026-01-01,Bawang Merah,317400,hujan,Awal Bulan,True
+2026-01-02,Tahu Putih,220700,cerah,Awal Bulan,True
+2026-01-02,Tahu Goreng,180200,cerah,Awal Bulan,True
+2026-01-02,Toge,118800,cerah,Awal Bulan,True
+2026-01-02,Teri Sibolga,880000,cerah,Awal Bulan,True
+2026-01-02,Mie Kuning,299800,cerah,Awal Bulan,True
+2026-01-02,Tempe,270900,cerah,Awal Bulan,True
+2026-01-02,Cabai Merah,682600,cerah,Awal Bulan,True
+2026-01-02,Bawang Merah,516200,cerah,Awal Bulan,True
+2026-01-03,Tahu Putih,231300,cerah,Awal Bulan,True
+2026-01-03,Tahu Goreng,187400,cerah,Awal Bulan,True
+2026-01-03,Toge,130200,cerah,Awal Bulan,True
+2026-01-03,Teri Sibolga,901100,cerah,Awal Bulan,True
+2026-01-03,Mie Kuning,315100,cerah,Awal Bulan,True
+2026-01-03,Tempe,275100,cerah,Awal Bulan,True
+2026-01-03,Cabai Merah,699400,cerah,Awal Bulan,True
+2026-01-03,Bawang Merah,571200,cerah,Awal Bulan,True
+2026-01-04,Tahu Putih,208600,cerah,Awal Bulan,True
+2026-01-04,Tahu Goreng,165900,cerah,Awal Bulan,True
+2026-01-04,Toge,104400,cerah,Awal Bulan,True
+2026-01-04,Teri Sibolga,852700,cerah,Awal Bulan,True
+2026-01-04,Mie Kuning,283100,cerah,Awal Bulan,True
+2026-01-04,Tempe,269900,cerah,Awal Bulan,True
+2026-01-04,Cabai Merah,613400,cerah,Awal Bulan,True
+2026-01-04,Bawang Merah,487200,cerah,Awal Bulan,True
+2026-01-05,Tahu Putih,118500,hujan,Awal Bulan,True
+2026-01-05,Tahu Goreng,99800,hujan,Awal Bulan,True
+2026-01-05,Toge,62300,hujan,Awal Bulan,True
+2026-01-05,Teri Sibolga,474400,hujan,Awal Bulan,True
+2026-01-05,Mie Kuning,160200,hujan,Awal Bulan,True
+2026-01-05,Tempe,141800,hujan,Awal Bulan,True
+2026-01-05,Cabai Merah,345600,hujan,Awal Bulan,True
+2026-01-05,Bawang Merah,275800,hujan,Awal Bulan,True
+2026-01-06,Tahu Putih,112600,hujan,,True
+2026-01-06,Tahu Goreng,82900,hujan,,True
+2026-01-06,Toge,57900,hujan,,True
+2026-01-06,Teri Sibolga,419900,hujan,,True
+2026-01-06,Mie Kuning,150900,hujan,,True
+2026-01-06,Tempe,121700,hujan,,True
+2026-01-06,Cabai Merah,316800,hujan,,True
+2026-01-06,Bawang Merah,255800,hujan,,True
+2026-01-07,Tahu Putih,151400,cerah,,True
+2026-01-07,Tahu Goreng,113700,cerah,,True
+2026-01-07,Toge,74300,cerah,,True
+2026-01-07,Teri Sibolga,612900,cerah,,True
+2026-01-07,Mie Kuning,179000,cerah,,True
+2026-01-07,Tempe,156000,cerah,,True
+2026-01-07,Cabai Merah,435000,cerah,,True
+2026-01-07,Bawang Merah,325800,cerah,,True
+2026-01-08,Tahu Putih,132400,mendung,,True
+2026-01-08,Tahu Goreng,113500,mendung,,True
+2026-01-08,Toge,74300,mendung,,True
+2026-01-08,Teri Sibolga,539500,mendung,,True
+2026-01-08,Mie Kuning,174600,mendung,,True
+2026-01-08,Tempe,171400,mendung,,True
+2026-01-08,Cabai Merah,424800,mendung,,True
+2026-01-08,Bawang Merah,320700,mendung,,True
+2026-01-09,Tahu Putih,185200,mendung,,True
+2026-01-09,Tahu Goreng,132100,mendung,,True
+2026-01-09,Toge,86400,mendung,,True
+2026-01-09,Teri Sibolga,670900,mendung,,True
+2026-01-09,Mie Kuning,229600,mendung,,True
+2026-01-09,Tempe,209000,mendung,,True
+2026-01-09,Cabai Merah,512500,mendung,,True
+2026-01-09,Bawang Merah,408200,mendung,,True
+2026-01-10,Tahu Putih,192400,cerah,,True
+2026-01-10,Tahu Goreng,171400,cerah,,True
+2026-01-10,Toge,107600,cerah,,True
+2026-01-10,Teri Sibolga,846200,cerah,,True
+2026-01-10,Mie Kuning,273700,cerah,,True
+2026-01-10,Tempe,247400,cerah,,True
+2026-01-10,Cabai Merah,621300,cerah,,True
+2026-01-10,Bawang Merah,481000,cerah,,True
+2026-01-11,Tahu Putih,169900,mendung,,True
+2026-01-11,Tahu Goreng,139500,mendung,,True
+2026-01-11,Toge,89000,mendung,,True
+2026-01-11,Teri Sibolga,681200,mendung,,True
+2026-01-11,Mie Kuning,220000,mendung,,True
+2026-01-11,Tempe,210200,mendung,,True
+2026-01-11,Cabai Merah,483400,mendung,,True
+2026-01-11,Bawang Merah,414200,mendung,,True
+2026-01-12,Tahu Putih,127300,cerah,,True
+2026-01-12,Tahu Goreng,96200,cerah,,True
+2026-01-12,Toge,68300,cerah,,True
+2026-01-12,Teri Sibolga,496100,cerah,,True
+2026-01-12,Mie Kuning,175700,cerah,,True
+2026-01-12,Tempe,149000,cerah,,True
+2026-01-12,Cabai Merah,375700,cerah,,True
+2026-01-12,Bawang Merah,275000,cerah,,True
+2026-01-13,Tahu Putih,122000,mendung,,True
+2026-01-13,Tahu Goreng,89700,mendung,,True
+2026-01-13,Toge,62000,mendung,,True
+2026-01-13,Teri Sibolga,511900,mendung,,True
+2026-01-13,Mie Kuning,170800,mendung,,True
+2026-01-13,Tempe,151600,mendung,,True
+2026-01-13,Cabai Merah,358200,mendung,,True
+2026-01-13,Bawang Merah,289200,mendung,,True
+2026-01-14,Tahu Putih,142500,cerah,,True
+2026-01-14,Tahu Goreng,108700,cerah,,True
+2026-01-14,Toge,80600,cerah,,True
+2026-01-14,Teri Sibolga,590000,cerah,,True
+2026-01-14,Mie Kuning,188300,cerah,,True
+2026-01-14,Tempe,171200,cerah,,True
+2026-01-14,Cabai Merah,431100,cerah,,True
+2026-01-14,Bawang Merah,305300,cerah,,True
+2026-01-15,Tahu Putih,148500,cerah,,True
+2026-01-15,Tahu Goreng,116700,cerah,,True
+2026-01-15,Toge,76800,cerah,,True
+2026-01-15,Teri Sibolga,593300,cerah,,True
+2026-01-15,Mie Kuning,214400,cerah,,True
+2026-01-15,Tempe,184600,cerah,,True
+2026-01-15,Cabai Merah,439700,cerah,,True
+2026-01-15,Bawang Merah,358000,cerah,,True
+2026-01-16,Tahu Putih,198000,cerah,,True
+2026-01-16,Tahu Goreng,155500,cerah,,True
+2026-01-16,Toge,100200,cerah,,True
+2026-01-16,Teri Sibolga,730600,cerah,,True
+2026-01-16,Mie Kuning,257000,cerah,,True
+2026-01-16,Tempe,228500,cerah,,True
+2026-01-16,Cabai Merah,582600,cerah,,True
+2026-01-16,Bawang Merah,448600,cerah,,True
+2026-01-17,Tahu Putih,211000,cerah,,True
+2026-01-17,Tahu Goreng,158500,cerah,,True
+2026-01-17,Toge,113700,cerah,,True
+2026-01-17,Teri Sibolga,816400,cerah,,True
+2026-01-17,Mie Kuning,292400,cerah,,True
+2026-01-17,Tempe,236300,cerah,,True
+2026-01-17,Cabai Merah,649700,cerah,,True
+2026-01-17,Bawang Merah,476200,cerah,,True
+2026-01-18,Tahu Putih,140200,hujan,,True
+2026-01-18,Tahu Goreng,113000,hujan,,True
+2026-01-18,Toge,75800,hujan,,True
+2026-01-18,Teri Sibolga,585800,hujan,,True
+2026-01-18,Mie Kuning,196000,hujan,,True
+2026-01-18,Tempe,168800,hujan,,True
+2026-01-18,Cabai Merah,431600,hujan,,True
+2026-01-18,Bawang Merah,364800,hujan,,True
+2026-01-19,Tahu Putih,109000,hujan,,True
+2026-01-19,Tahu Goreng,83000,hujan,,True
+2026-01-19,Toge,54500,hujan,,True
+2026-01-19,Teri Sibolga,410000,hujan,,True
+2026-01-19,Mie Kuning,139300,hujan,,True
+2026-01-19,Tempe,117400,hujan,,True
+2026-01-19,Cabai Merah,302800,hujan,,True
+2026-01-19,Bawang Merah,222100,hujan,,True
+2026-01-20,Tahu Putih,126200,mendung,,True
+2026-01-20,Tahu Goreng,101900,mendung,,True
+2026-01-20,Toge,65000,mendung,,True
+2026-01-20,Teri Sibolga,528100,mendung,,True
+2026-01-20,Mie Kuning,157500,mendung,,True
+2026-01-20,Tempe,140300,mendung,,True
+2026-01-20,Cabai Merah,375900,mendung,,True
+2026-01-20,Bawang Merah,301900,mendung,,True
+2026-01-21,Tahu Putih,152100,cerah,,True
+2026-01-21,Tahu Goreng,111900,cerah,,True
+2026-01-21,Toge,79300,cerah,,True
+2026-01-21,Teri Sibolga,569100,cerah,,True
+2026-01-21,Mie Kuning,188700,cerah,,True
+2026-01-21,Tempe,177000,cerah,,True
+2026-01-21,Cabai Merah,438700,cerah,,True
+2026-01-21,Bawang Merah,311500,cerah,,True
+2026-01-22,Tahu Putih,158900,cerah,,True
+2026-01-22,Tahu Goreng,126600,cerah,,True
+2026-01-22,Toge,78000,cerah,,True
+2026-01-22,Teri Sibolga,609500,cerah,,True
+2026-01-22,Mie Kuning,204000,cerah,,True
+2026-01-22,Tempe,181900,cerah,,True
+2026-01-22,Cabai Merah,440100,cerah,,True
+2026-01-22,Bawang Merah,340600,cerah,,True
+2026-01-23,Tahu Putih,149800,hujan,,True
+2026-01-23,Tahu Goreng,125600,hujan,,True
+2026-01-23,Toge,81700,hujan,,True
+2026-01-23,Teri Sibolga,591100,hujan,,True
+2026-01-23,Mie Kuning,206200,hujan,,True
+2026-01-23,Tempe,159500,hujan,,True
+2026-01-23,Cabai Merah,470700,hujan,,True
+2026-01-23,Bawang Merah,325600,hujan,,True
+2026-01-24,Tahu Putih,159700,hujan,,True
+2026-01-24,Tahu Goreng,123800,hujan,,True
+2026-01-24,Toge,81900,hujan,,True
+2026-01-24,Teri Sibolga,678100,hujan,,True
+2026-01-24,Mie Kuning,212000,hujan,,True
+2026-01-24,Tempe,197100,hujan,,True
+2026-01-24,Cabai Merah,485100,hujan,,True
+2026-01-24,Bawang Merah,385200,hujan,,True
+2026-01-25,Tahu Putih,180600,cerah,,True
+2026-01-25,Tahu Goreng,136600,cerah,,True
+2026-01-25,Toge,99800,cerah,,True
+2026-01-25,Teri Sibolga,705800,cerah,,True
+2026-01-25,Mie Kuning,225100,cerah,,True
+2026-01-25,Tempe,212300,cerah,,True
+2026-01-25,Cabai Merah,572400,cerah,,True
+2026-01-25,Bawang Merah,434300,cerah,,True
+2026-01-26,Tahu Putih,125700,cerah,,True
+2026-01-26,Tahu Goreng,100600,cerah,,True
+2026-01-26,Toge,67100,cerah,,True
+2026-01-26,Teri Sibolga,552400,cerah,,True
+2026-01-26,Mie Kuning,172600,cerah,,True
+2026-01-26,Tempe,155600,cerah,,True
+2026-01-26,Cabai Merah,398300,cerah,,True
+2026-01-26,Bawang Merah,300300,cerah,,True
+2026-01-27,Tahu Putih,133600,cerah,,True
+2026-01-27,Tahu Goreng,107200,cerah,,True
+2026-01-27,Toge,71800,cerah,,True
+2026-01-27,Teri Sibolga,539200,cerah,,True
+2026-01-27,Mie Kuning,185200,cerah,,True
+2026-01-27,Tempe,162300,cerah,,True
+2026-01-27,Cabai Merah,416900,cerah,,True
+2026-01-27,Bawang Merah,314000,cerah,,True
+2026-01-28,Tahu Putih,131500,mendung,,True
+2026-01-28,Tahu Goreng,96500,mendung,,True
+2026-01-28,Toge,72500,mendung,,True
+2026-01-28,Teri Sibolga,531700,mendung,,True
+2026-01-28,Mie Kuning,181800,mendung,,True
+2026-01-28,Tempe,139100,mendung,,True
+2026-01-28,Cabai Merah,426200,mendung,,True
+2026-01-28,Bawang Merah,304200,mendung,,True
+2026-01-29,Tahu Putih,144100,mendung,,True
+2026-01-29,Tahu Goreng,105800,mendung,,True
+2026-01-29,Toge,75400,mendung,,True
+2026-01-29,Teri Sibolga,528700,mendung,,True
+2026-01-29,Mie Kuning,179400,mendung,,True
+2026-01-29,Tempe,178300,mendung,,True
+2026-01-29,Cabai Merah,410800,mendung,,True
+2026-01-29,Bawang Merah,324800,mendung,,True
+2026-01-30,Tahu Putih,194000,cerah,,True
+2026-01-30,Tahu Goreng,153000,cerah,,True
+2026-01-30,Toge,100600,cerah,,True
+2026-01-30,Teri Sibolga,760900,cerah,,True
+2026-01-30,Mie Kuning,274000,cerah,,True
+2026-01-30,Tempe,224500,cerah,,True
+2026-01-30,Cabai Merah,567000,cerah,,True
+2026-01-30,Bawang Merah,455900,cerah,,True
+2026-01-31,Tahu Putih,211500,cerah,,True
+2026-01-31,Tahu Goreng,169700,cerah,,True
+2026-01-31,Toge,110800,cerah,,True
+2026-01-31,Teri Sibolga,773000,cerah,,True
+2026-01-31,Mie Kuning,287600,cerah,,True
+2026-01-31,Tempe,231900,cerah,,True
+2026-01-31,Cabai Merah,614900,cerah,,True
+2026-01-31,Bawang Merah,458200,cerah,,True
+2026-02-01,Tahu Putih,206500,cerah,Awal Bulan,True
+2026-02-01,Tahu Goreng,167800,cerah,Awal Bulan,True
+2026-02-01,Toge,111800,cerah,Awal Bulan,True
+2026-02-01,Teri Sibolga,842000,cerah,Awal Bulan,True
+2026-02-01,Mie Kuning,293800,cerah,Awal Bulan,True
+2026-02-01,Tempe,252900,cerah,Awal Bulan,True
+2026-02-01,Cabai Merah,614900,cerah,Awal Bulan,True
+2026-02-01,Bawang Merah,501600,cerah,Awal Bulan,True
+2026-02-02,Tahu Putih,153600,cerah,Awal Bulan,True
+2026-02-02,Tahu Goreng,111500,cerah,Awal Bulan,True
+2026-02-02,Toge,80100,cerah,Awal Bulan,True
+2026-02-02,Teri Sibolga,602900,cerah,Awal Bulan,True
+2026-02-02,Mie Kuning,193200,cerah,Awal Bulan,True
+2026-02-02,Tempe,185600,cerah,Awal Bulan,True
+2026-02-02,Cabai Merah,437200,cerah,Awal Bulan,True
+2026-02-02,Bawang Merah,343800,cerah,Awal Bulan,True
+2026-02-03,Tahu Putih,123300,hujan,Awal Bulan,True
+2026-02-03,Tahu Goreng,99400,hujan,Awal Bulan,True
+2026-02-03,Toge,63300,hujan,Awal Bulan,True
+2026-02-03,Teri Sibolga,468200,hujan,Awal Bulan,True
+2026-02-03,Mie Kuning,176200,hujan,Awal Bulan,True
+2026-02-03,Tempe,144000,hujan,Awal Bulan,True
+2026-02-03,Cabai Merah,357800,hujan,Awal Bulan,True
+2026-02-03,Bawang Merah,264800,hujan,Awal Bulan,True
+2026-02-04,Tahu Putih,159700,cerah,Awal Bulan,True
+2026-02-04,Tahu Goreng,124200,cerah,Awal Bulan,True
+2026-02-04,Toge,93100,cerah,Awal Bulan,True
+2026-02-04,Teri Sibolga,682000,cerah,Awal Bulan,True
+2026-02-04,Mie Kuning,212500,cerah,Awal Bulan,True
+2026-02-04,Tempe,214400,cerah,Awal Bulan,True
+2026-02-04,Cabai Merah,510900,cerah,Awal Bulan,True
+2026-02-04,Bawang Merah,377400,cerah,Awal Bulan,True
+2026-02-05,Tahu Putih,155300,cerah,Awal Bulan,True
+2026-02-05,Tahu Goreng,150600,cerah,Awal Bulan,True
+2026-02-05,Toge,86900,cerah,Awal Bulan,True
+2026-02-05,Teri Sibolga,644600,cerah,Awal Bulan,True
+2026-02-05,Mie Kuning,239400,cerah,Awal Bulan,True
+2026-02-05,Tempe,227200,cerah,Awal Bulan,True
+2026-02-05,Cabai Merah,546200,cerah,Awal Bulan,True
+2026-02-05,Bawang Merah,411600,cerah,Awal Bulan,True
+2026-02-06,Tahu Putih,192000,cerah,,True
+2026-02-06,Tahu Goreng,155100,cerah,,True
+2026-02-06,Toge,103000,cerah,,True
+2026-02-06,Teri Sibolga,758400,cerah,,True
+2026-02-06,Mie Kuning,251000,cerah,,True
+2026-02-06,Tempe,224400,cerah,,True
+2026-02-06,Cabai Merah,545500,cerah,,True
+2026-02-06,Bawang Merah,432600,cerah,,True
+2026-02-07,Tahu Putih,173700,mendung,,True
+2026-02-07,Tahu Goreng,148500,mendung,,True
+2026-02-07,Toge,95400,mendung,,True
+2026-02-07,Teri Sibolga,712300,mendung,,True
+2026-02-07,Mie Kuning,250200,mendung,,True
+2026-02-07,Tempe,236000,mendung,,True
+2026-02-07,Cabai Merah,579400,mendung,,True
+2026-02-07,Bawang Merah,407400,mendung,,True
+2026-02-08,Tahu Putih,172900,cerah,,True
+2026-02-08,Tahu Goreng,149400,cerah,,True
+2026-02-08,Toge,92200,cerah,,True
+2026-02-08,Teri Sibolga,713500,cerah,,True
+2026-02-08,Mie Kuning,245300,cerah,,True
+2026-02-08,Tempe,207600,cerah,,True
+2026-02-08,Cabai Merah,542300,cerah,,True
+2026-02-08,Bawang Merah,397600,cerah,,True
+2026-02-09,Tahu Putih,124400,cerah,,True
+2026-02-09,Tahu Goreng,103300,cerah,,True
+2026-02-09,Toge,63700,cerah,,True
+2026-02-09,Teri Sibolga,519000,cerah,,True
+2026-02-09,Mie Kuning,169900,cerah,,True
+2026-02-09,Tempe,156400,cerah,,True
+2026-02-09,Cabai Merah,385900,cerah,,True
+2026-02-09,Bawang Merah,313700,cerah,,True
+2026-02-10,Tahu Putih,108500,hujan,,True
+2026-02-10,Tahu Goreng,84900,hujan,,True
+2026-02-10,Toge,57900,hujan,,True
+2026-02-10,Teri Sibolga,441400,hujan,,True
+2026-02-10,Mie Kuning,144300,hujan,,True
+2026-02-10,Tempe,129800,hujan,,True
+2026-02-10,Cabai Merah,314900,hujan,,True
+2026-02-10,Bawang Merah,245300,hujan,,True
+2026-02-11,Tahu Putih,123700,mendung,,True
+2026-02-11,Tahu Goreng,112200,mendung,,True
+2026-02-11,Toge,66400,mendung,,True
+2026-02-11,Teri Sibolga,509900,mendung,,True
+2026-02-11,Mie Kuning,169800,mendung,,True
+2026-02-11,Tempe,163000,mendung,,True
+2026-02-11,Cabai Merah,388700,mendung,,True
+2026-02-11,Bawang Merah,321200,mendung,,True
+2026-02-12,Tahu Putih,146000,cerah,,True
+2026-02-12,Tahu Goreng,121300,cerah,,True
+2026-02-12,Toge,77300,cerah,,True
+2026-02-12,Teri Sibolga,651500,cerah,,True
+2026-02-12,Mie Kuning,190500,cerah,,True
+2026-02-12,Tempe,182200,cerah,,True
+2026-02-12,Cabai Merah,461400,cerah,,True
+2026-02-12,Bawang Merah,355800,cerah,,True
+2026-02-13,Tahu Putih,186100,cerah,,True
+2026-02-13,Tahu Goreng,149200,cerah,,True
+2026-02-13,Toge,100200,cerah,,True
+2026-02-13,Teri Sibolga,745600,cerah,,True
+2026-02-13,Mie Kuning,259600,cerah,,True
+2026-02-13,Tempe,244900,cerah,,True
+2026-02-13,Cabai Merah,550000,cerah,,True
+2026-02-13,Bawang Merah,413500,cerah,,True
+2026-02-14,Tahu Putih,201800,cerah,,True
+2026-02-14,Tahu Goreng,178700,cerah,,True
+2026-02-14,Toge,104500,cerah,,True
+2026-02-14,Teri Sibolga,863100,cerah,,True
+2026-02-14,Mie Kuning,288100,cerah,,True
+2026-02-14,Tempe,237600,cerah,,True
+2026-02-14,Cabai Merah,621300,cerah,,True
+2026-02-14,Bawang Merah,503300,cerah,,True
+2026-02-15,Tahu Putih,177300,cerah,,True
+2026-02-15,Tahu Goreng,142800,cerah,,True
+2026-02-15,Toge,93800,cerah,,True
+2026-02-15,Teri Sibolga,690800,cerah,,True
+2026-02-15,Mie Kuning,233800,cerah,,True
+2026-02-15,Tempe,205400,cerah,,True
+2026-02-15,Cabai Merah,540700,cerah,,True
+2026-02-15,Bawang Merah,407100,cerah,,True
+2026-02-16,Tahu Putih,128700,cerah,,True
+2026-02-16,Tahu Goreng,95700,cerah,,True
+2026-02-16,Toge,68900,cerah,,True
+2026-02-16,Teri Sibolga,527000,cerah,,True
+2026-02-16,Mie Kuning,156400,cerah,,True
+2026-02-16,Tempe,155300,cerah,,True
+2026-02-16,Cabai Merah,401300,cerah,,True
+2026-02-16,Bawang Merah,283100,cerah,,True
+2026-02-17,Tahu Putih,172800,cerah,Ramadan,True
+2026-02-17,Tahu Goreng,131800,cerah,Ramadan,True
+2026-02-17,Toge,73500,cerah,Ramadan,True
+2026-02-17,Teri Sibolga,754300,cerah,Ramadan,True
+2026-02-17,Mie Kuning,193200,cerah,Ramadan,True
+2026-02-17,Tempe,195000,cerah,Ramadan,True
+2026-02-17,Cabai Merah,434400,cerah,Ramadan,True
+2026-02-17,Bawang Merah,318600,cerah,Ramadan,True
+2026-02-18,Tahu Putih,172200,cerah,Ramadan,True
+2026-02-18,Tahu Goreng,129100,cerah,Ramadan,True
+2026-02-18,Toge,79400,cerah,Ramadan,True
+2026-02-18,Teri Sibolga,769100,cerah,Ramadan,True
+2026-02-18,Mie Kuning,193600,cerah,Ramadan,True
+2026-02-18,Tempe,215300,cerah,Ramadan,True
+2026-02-18,Cabai Merah,468500,cerah,Ramadan,True
+2026-02-18,Bawang Merah,357600,cerah,Ramadan,True
+2026-02-19,Tahu Putih,172100,cerah,Ramadan,True
+2026-02-19,Tahu Goreng,142200,cerah,Ramadan,True
+2026-02-19,Toge,88100,cerah,Ramadan,True
+2026-02-19,Teri Sibolga,844800,cerah,Ramadan,True
+2026-02-19,Mie Kuning,229500,cerah,Ramadan,True
+2026-02-19,Tempe,219400,cerah,Ramadan,True
+2026-02-19,Cabai Merah,476100,cerah,Ramadan,True
+2026-02-19,Bawang Merah,363000,cerah,Ramadan,True
+2026-02-20,Tahu Putih,226200,cerah,Ramadan,True
+2026-02-20,Tahu Goreng,178900,cerah,Ramadan,True
+2026-02-20,Toge,108000,cerah,Ramadan,True
+2026-02-20,Teri Sibolga,1090200,cerah,Ramadan,True
+2026-02-20,Mie Kuning,254200,cerah,Ramadan,True
+2026-02-20,Tempe,255600,cerah,Ramadan,True
+2026-02-20,Cabai Merah,547200,cerah,Ramadan,True
+2026-02-20,Bawang Merah,468700,cerah,Ramadan,True
+2026-02-21,Tahu Putih,213700,mendung,Ramadan,True
+2026-02-21,Tahu Goreng,163400,mendung,Ramadan,True
+2026-02-21,Toge,105900,mendung,Ramadan,True
+2026-02-21,Teri Sibolga,1147300,mendung,Ramadan,True
+2026-02-21,Mie Kuning,260800,mendung,Ramadan,True
+2026-02-21,Tempe,277300,mendung,Ramadan,True
+2026-02-21,Cabai Merah,588800,mendung,Ramadan,True
+2026-02-21,Bawang Merah,454600,mendung,Ramadan,True
+2026-02-22,Tahu Putih,223900,cerah,Ramadan,True
+2026-02-22,Tahu Goreng,170800,cerah,Ramadan,True
+2026-02-22,Toge,101900,cerah,Ramadan,True
+2026-02-22,Teri Sibolga,1021000,cerah,Ramadan,True
+2026-02-22,Mie Kuning,245300,cerah,Ramadan,True
+2026-02-22,Tempe,269500,cerah,Ramadan,True
+2026-02-22,Cabai Merah,563000,cerah,Ramadan,True
+2026-02-22,Bawang Merah,427700,cerah,Ramadan,True
+2026-02-23,Tahu Putih,125000,hujan,Ramadan,True
+2026-02-23,Tahu Goreng,94400,hujan,Ramadan,True
+2026-02-23,Toge,57200,hujan,Ramadan,True
+2026-02-23,Teri Sibolga,571000,hujan,Ramadan,True
+2026-02-23,Mie Kuning,149000,hujan,Ramadan,True
+2026-02-23,Tempe,149700,hujan,Ramadan,True
+2026-02-23,Cabai Merah,321000,hujan,Ramadan,True
+2026-02-23,Bawang Merah,258100,hujan,Ramadan,True
+2026-02-24,Tahu Putih,136800,hujan,Ramadan,True
+2026-02-24,Tahu Goreng,106000,hujan,Ramadan,True
+2026-02-24,Toge,60500,hujan,Ramadan,True
+2026-02-24,Teri Sibolga,573100,hujan,Ramadan,True
+2026-02-24,Mie Kuning,144800,hujan,Ramadan,True
+2026-02-24,Tempe,153600,hujan,Ramadan,True
+2026-02-24,Cabai Merah,331900,hujan,Ramadan,True
+2026-02-24,Bawang Merah,262600,hujan,Ramadan,True
+2026-02-25,Tahu Putih,171400,cerah,Ramadan,True
+2026-02-25,Tahu Goreng,139700,cerah,Ramadan,True
+2026-02-25,Toge,79600,cerah,Ramadan,True
+2026-02-25,Teri Sibolga,813500,cerah,Ramadan,True
+2026-02-25,Mie Kuning,200000,cerah,Ramadan,True
+2026-02-25,Tempe,189000,cerah,Ramadan,True
+2026-02-25,Cabai Merah,432000,cerah,Ramadan,True
+2026-02-25,Bawang Merah,347100,cerah,Ramadan,True
+2026-02-26,Tahu Putih,171300,cerah,Ramadan,True
+2026-02-26,Tahu Goreng,147500,cerah,Ramadan,True
+2026-02-26,Toge,89100,cerah,Ramadan,True
+2026-02-26,Teri Sibolga,881000,cerah,Ramadan,True
+2026-02-26,Mie Kuning,208200,cerah,Ramadan,True
+2026-02-26,Tempe,228900,cerah,Ramadan,True
+2026-02-26,Cabai Merah,475300,cerah,Ramadan,True
+2026-02-26,Bawang Merah,362500,cerah,Ramadan,True
+2026-02-27,Tahu Putih,201900,mendung,Ramadan,True
+2026-02-27,Tahu Goreng,163600,mendung,Ramadan,True
+2026-02-27,Toge,95100,mendung,Ramadan,True
+2026-02-27,Teri Sibolga,972600,mendung,Ramadan,True
+2026-02-27,Mie Kuning,243100,mendung,Ramadan,True
+2026-02-27,Tempe,248400,mendung,Ramadan,True
+2026-02-27,Cabai Merah,552900,mendung,Ramadan,True
+2026-02-27,Bawang Merah,442800,mendung,Ramadan,True
+2026-02-28,Tahu Putih,252200,cerah,Ramadan,True
+2026-02-28,Tahu Goreng,182900,cerah,Ramadan,True
+2026-02-28,Toge,101800,cerah,Ramadan,True
+2026-02-28,Teri Sibolga,1176400,cerah,Ramadan,True
+2026-02-28,Mie Kuning,268000,cerah,Ramadan,True
+2026-02-28,Tempe,289000,cerah,Ramadan,True
+2026-02-28,Cabai Merah,608000,cerah,Ramadan,True
+2026-02-28,Bawang Merah,460400,cerah,Ramadan,True
+2026-03-01,Tahu Putih,220700,cerah,Ramadan,True
+2026-03-01,Tahu Goreng,178000,cerah,Ramadan,True
+2026-03-01,Toge,98500,cerah,Ramadan,True
+2026-03-01,Teri Sibolga,903500,cerah,Ramadan,True
+2026-03-01,Mie Kuning,246500,cerah,Ramadan,True
+2026-03-01,Tempe,263300,cerah,Ramadan,True
+2026-03-01,Cabai Merah,533500,cerah,Ramadan,True
+2026-03-01,Bawang Merah,444200,cerah,Ramadan,True
+2026-03-02,Tahu Putih,122300,hujan,Ramadan,True
+2026-03-02,Tahu Goreng,100200,hujan,Ramadan,True
+2026-03-02,Toge,57400,hujan,Ramadan,True
+2026-03-02,Teri Sibolga,549000,hujan,Ramadan,True
+2026-03-02,Mie Kuning,149600,hujan,Ramadan,True
+2026-03-02,Tempe,145900,hujan,Ramadan,True
+2026-03-02,Cabai Merah,320900,hujan,Ramadan,True
+2026-03-02,Bawang Merah,240600,hujan,Ramadan,True
+2026-03-03,Tahu Putih,159100,cerah,Ramadan,True
+2026-03-03,Tahu Goreng,125000,cerah,Ramadan,True
+2026-03-03,Toge,75100,cerah,Ramadan,True
+2026-03-03,Teri Sibolga,807800,cerah,Ramadan,True
+2026-03-03,Mie Kuning,178600,cerah,Ramadan,True
+2026-03-03,Tempe,181900,cerah,Ramadan,True
+2026-03-03,Cabai Merah,450300,cerah,Ramadan,True
+2026-03-03,Bawang Merah,328000,cerah,Ramadan,True
+2026-03-04,Tahu Putih,166400,cerah,Ramadan,True
+2026-03-04,Tahu Goreng,142500,cerah,Ramadan,True
+2026-03-04,Toge,77900,cerah,Ramadan,True
+2026-03-04,Teri Sibolga,856300,cerah,Ramadan,True
+2026-03-04,Mie Kuning,204900,cerah,Ramadan,True
+2026-03-04,Tempe,201200,cerah,Ramadan,True
+2026-03-04,Cabai Merah,487600,cerah,Ramadan,True
+2026-03-04,Bawang Merah,340700,cerah,Ramadan,True
+2026-03-05,Tahu Putih,170500,mendung,Ramadan,True
+2026-03-05,Tahu Goreng,134100,mendung,Ramadan,True
+2026-03-05,Toge,81300,mendung,Ramadan,True
+2026-03-05,Teri Sibolga,821100,mendung,Ramadan,True
+2026-03-05,Mie Kuning,193400,mendung,Ramadan,True
+2026-03-05,Tempe,192700,mendung,Ramadan,True
+2026-03-05,Cabai Merah,442700,mendung,Ramadan,True
+2026-03-05,Bawang Merah,328900,mendung,Ramadan,True
+2026-03-06,Tahu Putih,223700,mendung,Ramadan,True
+2026-03-06,Tahu Goreng,166500,mendung,Ramadan,True
+2026-03-06,Toge,95200,mendung,Ramadan,True
+2026-03-06,Teri Sibolga,973100,mendung,Ramadan,True
+2026-03-06,Mie Kuning,228500,mendung,Ramadan,True
+2026-03-06,Tempe,238700,mendung,Ramadan,True
+2026-03-06,Cabai Merah,569500,mendung,Ramadan,True
+2026-03-06,Bawang Merah,411500,mendung,Ramadan,True
+2026-03-07,Tahu Putih,232800,cerah,Ramadan,True
+2026-03-07,Tahu Goreng,198600,cerah,Ramadan,True
+2026-03-07,Toge,118800,cerah,Ramadan,True
+2026-03-07,Teri Sibolga,1166600,cerah,Ramadan,True
+2026-03-07,Mie Kuning,294800,cerah,Ramadan,True
+2026-03-07,Tempe,282800,cerah,Ramadan,True
+2026-03-07,Cabai Merah,601600,cerah,Ramadan,True
+2026-03-07,Bawang Merah,525900,cerah,Ramadan,True
+2026-03-08,Tahu Putih,213200,cerah,Ramadan,True
+2026-03-08,Tahu Goreng,171100,cerah,Ramadan,True
+2026-03-08,Toge,106200,cerah,Ramadan,True
+2026-03-08,Teri Sibolga,1030400,cerah,Ramadan,True
+2026-03-08,Mie Kuning,256600,cerah,Ramadan,True
+2026-03-08,Tempe,281600,cerah,Ramadan,True
+2026-03-08,Cabai Merah,552400,cerah,Ramadan,True
+2026-03-08,Bawang Merah,457400,cerah,Ramadan,True
+2026-03-09,Tahu Putih,153300,cerah,Ramadan,True
+2026-03-09,Tahu Goreng,123700,cerah,Ramadan,True
+2026-03-09,Toge,75800,cerah,Ramadan,True
+2026-03-09,Teri Sibolga,728500,cerah,Ramadan,True
+2026-03-09,Mie Kuning,182300,cerah,Ramadan,True
+2026-03-09,Tempe,191500,cerah,Ramadan,True
+2026-03-09,Cabai Merah,395800,cerah,Ramadan,True
+2026-03-09,Bawang Merah,301900,cerah,Ramadan,True
+2026-03-10,Tahu Putih,155200,cerah,Ramadan,True
+2026-03-10,Tahu Goreng,119400,cerah,Ramadan,True
+2026-03-10,Toge,81800,cerah,Ramadan,True
+2026-03-10,Teri Sibolga,722600,cerah,Ramadan,True
+2026-03-10,Mie Kuning,187300,cerah,Ramadan,True
+2026-03-10,Tempe,192200,cerah,Ramadan,True
+2026-03-10,Cabai Merah,430500,cerah,Ramadan,True
+2026-03-10,Bawang Merah,341500,cerah,Ramadan,True
+2026-03-11,Tahu Putih,176900,cerah,Ramadan,True
+2026-03-11,Tahu Goreng,133600,cerah,Ramadan,True
+2026-03-11,Toge,79300,cerah,Ramadan,True
+2026-03-11,Teri Sibolga,807000,cerah,Ramadan,True
+2026-03-11,Mie Kuning,197500,cerah,Ramadan,True
+2026-03-11,Tempe,218400,cerah,Ramadan,True
+2026-03-11,Cabai Merah,457700,cerah,Ramadan,True
+2026-03-11,Bawang Merah,359400,cerah,Ramadan,True
