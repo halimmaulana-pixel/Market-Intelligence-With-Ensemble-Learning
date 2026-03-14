@@ -19,7 +19,7 @@ statsmodels==0.14.4
 pmdarima==2.0.4
 
 # Optimisasi LP
-scipy==1.13.1
+scipy==1.11.1
 
 # Data processing
 pandas==2.2.2
